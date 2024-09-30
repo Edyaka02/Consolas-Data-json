@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "nombre": "PlayStation 5",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2020-11-12",
+        "descripcion": "Consola de novena generación con soporte para juegos en 4K y ray tracing.",
+        "precio": 499.99
+    },
+    {
+        "id": 2,
+        "nombre": "Xbox Series X",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2020-11-10",
+        "descripcion": "Consola de novena generación con soporte para 4K y hasta 120 FPS.",
+        "precio": 499.99
+    },
+    {
+        "id": 3,
+        "nombre": "Nintendo Switch",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2017-03-03",
+        "descripcion": "Consola híbrida que se puede usar tanto como portátil como conectada a la TV.",
+        "precio": 299.99
+    },
+    {
+        "id": 4,
+        "nombre": "PlayStation 4",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2013-11-15",
+        "descripcion": "Consola de octava generación con gran catálogo de exclusivos.",
+        "precio": 299.99
+    },
+    {
+        "id": 5,
+        "nombre": "Xbox One",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2013-11-22",
+        "descripcion": "Consola de octava generación con enfoque multimedia.",
+        "precio": 299.99
+    },
+    {
+        "id": 6,
+        "nombre": "Nintendo Wii U",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2012-11-18",
+        "descripcion": "Consola con control tablet que permitió nuevas formas de jugar.",
+        "precio": 249.99
+    },
+    {
+        "id": 7,
+        "nombre": "PlayStation 3",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2006-11-11",
+        "descripcion": "Consola de séptima generación con soporte para Blu-ray.",
+        "precio": 499.99
+    },
+    {
+        "id": 8,
+        "nombre": "Xbox 360",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2005-11-22",
+        "descripcion": "Consola de séptima generación, pionera en el juego en línea a través de Xbox Live.",
+        "precio": 399.99
+    },
+    {
+        "id": 9,
+        "nombre": "Nintendo Wii",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2006-11-19",
+        "descripcion": "Consola con controles de movimiento que atrajo a una audiencia casual.",
+        "precio": 249.99
+    },
+    {
+        "id": 10,
+        "nombre": "PlayStation 2",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2000-03-04",
+        "descripcion": "La consola más vendida de todos los tiempos, con un extenso catálogo de juegos.",
+        "precio": 299.99
+    },
+    {
+        "id": 11,
+        "nombre": "Xbox",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2001-11-15",
+        "descripcion": "La primera consola de Microsoft con enfoque en multijugador en línea.",
+        "precio": 299.99
+    },
+    {
+        "id": 12,
+        "nombre": "Nintendo GameCube",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2001-09-14",
+        "descripcion": "Consola de Nintendo con discos miniDVD y enfoque en multijugador local.",
+        "precio": 199.99
+    },
+    {
+        "id": 13,
+        "nombre": "PlayStation",
+        "compania": "Sony",
+        "fecha_lanzamiento": "1994-12-03",
+        "descripcion": "Primera consola de Sony, revolucionó los videojuegos con gráficos 3D.",
+        "precio": 299.99
+    },
+    {
+        "id": 14,
+        "nombre": "Sega Dreamcast",
+        "compania": "Sega",
+        "fecha_lanzamiento": "1999-09-09",
+        "descripcion": "Consola adelantada a su tiempo con capacidad para jugar en línea.",
+        "precio": 199.99
+    },
+    {
+        "id": 15,
+        "nombre": "Game Boy",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "1989-04-21",
+        "descripcion": "La primera consola portátil exitosa de Nintendo.",
+        "precio": 89.99
+    },
+    {
+        "id": 16,
+        "nombre": "Nintendo DS",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2004-11-21",
+        "descripcion": "Consola portátil con dos pantallas, una de ellas táctil.",
+        "precio": 149.99
+    },
+    {
+        "id": 17,
+        "nombre": "PlayStation Portable (PSP)",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2004-12-12",
+        "descripcion": "Primera consola portátil de Sony con gráficos de alta calidad.",
+        "precio": 249.99
+    },
+    {
+        "id": 18,
+        "nombre": "Sega Genesis",
+        "compania": "Sega",
+        "fecha_lanzamiento": "1988-10-29",
+        "descripcion": "Consola de 16 bits famosa por sus juegos de Sonic.",
+        "precio": 189.99
+    },
+    {
+        "id": 19,
+        "nombre": "Atari 2600",
+        "compania": "Atari",
+        "fecha_lanzamiento": "1977-09-11",
+        "descripcion": "Una de las primeras consolas con cartuchos intercambiables.",
+        "precio": 199.99
+    },
+    {
+        "id": 20,
+        "nombre": "Super Nintendo Entertainment System (SNES)",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "1990-11-21",
+        "descripcion": "Consola de 16 bits con algunos de los juegos más influyentes de la historia.",
+        "precio": 199.99
+    },
+    {
+        "id": 21,
+        "nombre": "Nintendo 64",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "1996-06-23",
+        "descripcion": "Consola de 64 bits con soporte para gráficos 3D y multijugador local.",
+        "precio": 199.99
+    },
+    {
+        "id": 22,
+        "nombre": "Sega Saturn",
+        "compania": "Sega",
+        "fecha_lanzamiento": "1994-11-22",
+        "descripcion": "Consola de 32 bits que compitió con PlayStation y Nintendo 64.",
+        "precio": 399.99
+    },
+    {
+        "id": 23,
+        "nombre": "Nintendo 3DS",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2011-02-26",
+        "descripcion": "Consola portátil con soporte para 3D sin gafas.",
+        "precio": 249.99
+    },
+    {
+        "id": 24,
+        "nombre": "PlayStation Vita",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2011-12-17",
+        "descripcion": "La segunda portátil de Sony con gráficos mejorados y pantalla táctil OLED.",
+        "precio": 249.99
+    },
+    {
+        "id": 25,
+        "nombre": "Neo Geo",
+        "compania": "SNK",
+        "fecha_lanzamiento": "1990-01-31",
+        "descripcion": "Consola famosa por sus juegos arcade y su alto precio.",
+        "precio": 649.99
+    },
+    {
+        "id": 26,
+        "nombre": "TurboGrafx-16",
+        "compania": "NEC",
+        "fecha_lanzamiento": "1987-10-30",
+        "descripcion": "Consola de 16 bits que compitió con la Sega Genesis y SNES.",
+        "precio": 199.99
+    },
+    {
+        "id": 27,
+        "nombre": "ColecoVision",
+        "compania": "Coleco",
+        "fecha_lanzamiento": "1982-08-01",
+        "descripcion": "Consola con gráficos avanzados para su época, famosa por su port de Donkey Kong.",
+        "precio": 179.99
+    },
+    {
+        "id": 28,
+        "nombre": "Amiga CD32",
+        "compania": "Commodore",
+        "fecha_lanzamiento": "1993-09-17",
+        "descripcion": "La primera consola de 32 bits lanzada en Europa.",
+        "precio": 399.99
+    },
+    {
+        "id": 29,
+        "nombre": "Philips CD-i",
+        "compania": "Philips",
+        "fecha_lanzamiento": "1991-12-03",
+        "descripcion": "Consola multimedia con soporte para juegos y aplicaciones interactivas.",
+        "precio": 499.99
+    },
+    {
+        "id": 30,
+        "nombre": "Magnavox Odyssey",
+        "compania": "Magnavox",
+        "fecha_lanzamiento": "1972-09-01",
+        "descripcion": "La primera consola de videojuegos de la historia.",
+        "precio": 99.99
+    },
+    {
+        "id": 31,
+        "nombre": "Game Boy Color",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "1998-10-21",
+        "descripcion": "Versión mejorada del Game Boy original con pantalla a color.",
+        "precio": 99.99
+    },
+    {
+        "id": 32,
+        "nombre": "Nintendo Switch Lite",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2019-09-20",
+        "descripcion": "Versión portátil del Nintendo Switch sin opción de conectarse a la TV.",
+        "precio": 199.99
+    },
+    {
+        "id": 33,
+        "nombre": "PlayStation 4 Pro",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2016-11-10",
+        "descripcion": "Versión mejorada de la PS4 con soporte para juegos en 4K.",
+        "precio": 399.99
+    },
+    {
+        "id": 34,
+        "nombre": "Xbox One X",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2017-11-07",
+        "descripcion": "Versión mejorada de la Xbox One con mayor potencia y soporte para 4K.",
+        "precio": 499.99
+    },
+    {
+        "id": 35,
+        "nombre": "PlayStation 2 Slim",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2004-10-29",
+        "descripcion": "Versión más compacta de la PS2 con funciones idénticas.",
+        "precio": 149.99
+    },
+    {
+        "id": 36,
+        "nombre": "Game Boy Advance",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2001-03-21",
+        "descripcion": "Consola portátil de 32 bits con un vasto catálogo de juegos.",
+        "precio": 99.99
+    },
+    {
+        "id": 37,
+        "nombre": "Xbox 360 S",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2010-06-18",
+        "descripcion": "Versión más delgada y silenciosa de la Xbox 360 con mejoras de hardware.",
+        "precio": 299.99
+    },
+    {
+        "id": 38,
+        "nombre": "PlayStation 3 Slim",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2009-09-01",
+        "descripcion": "Versión más delgada y eficiente de la PS3 con menor consumo de energía.",
+        "precio": 299.99
+    },
+    {
+        "id": 39,
+        "nombre": "Sega Game Gear",
+        "compania": "Sega",
+        "fecha_lanzamiento": "1990-10-06",
+        "descripcion": "Consola portátil de 8 bits con pantalla a color.",
+        "precio": 149.99
+    },
+    {
+        "id": 40,
+        "nombre": "Nintendo 2DS",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2013-10-12",
+        "descripcion": "Versión más económica de la 3DS sin soporte para 3D.",
+        "precio": 129.99
+    },
+    {
+        "id": 41,
+        "nombre": "PlayStation 5 Digital Edition",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2020-11-12",
+        "descripcion": "Versión digital de la PS5 sin lector de discos.",
+        "precio": 399.99
+    },
+    {
+        "id": 42,
+        "nombre": "Xbox Series S",
+        "compania": "Microsoft",
+        "fecha_lanzamiento": "2020-11-10",
+        "descripcion": "Versión menos potente y sin disco de la Xbox Series X.",
+        "precio": 299.99
+    },
+    {
+        "id": 43,
+        "nombre": "PlayStation 4 Slim",
+        "compania": "Sony",
+        "fecha_lanzamiento": "2016-09-15",
+        "descripcion": "Versión más delgada de la PlayStation 4, con el mismo rendimiento.",
+        "precio": 299.99
+    },
+    {
+        "id": 44,
+        "nombre": "Nintendo Switch OLED",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2021-10-08",
+        "descripcion": "Versión mejorada del Switch con pantalla OLED y mejor audio.",
+        "precio": 349.99
+    },
+    {
+        "id": 45,
+        "nombre": "Game Boy Advance SP",
+        "compania": "Nintendo",
+        "fecha_lanzamiento": "2003-02-14",
+        "descripcion": "Versión mejorada del Game Boy Advance con pantalla retroiluminada.",
+        "precio": 129.99
+    },
+    {
+        "id": 46,
+        "nombre": "Sega Master System",
+        "compania": "Sega",
+        "fecha_lanzamiento": "1985-10-20",
+        "descripcion": "Consola de 8 bits que compitió con el NES.",
+        "precio": 199.99
+    },
+    {
+        "id": 47,
+        "nombre": "Neo Geo Pocket Color",
+        "compania": "SNK",
+        "fecha_lanzamiento": "1999-03-16",
+        "descripcion": "Consola portátil a color famosa por sus juegos de lucha.",
+        "precio": 69.99
+    },
+    {
+        "id": 48,
+        "nombre": "Atari Jaguar",
+        "compania": "Atari",
+        "fecha_lanzamiento": "1993-11-23",
+        "descripcion": "Consola de 64 bits que no tuvo mucho éxito.",
+        "precio": 249.99
+    },
+    {
+        "id": 49,
+        "nombre": "Commodore 64",
+        "compania": "Commodore",
+        "fecha_lanzamiento": "1982-08-01",
+        "descripcion": "Computadora personal que también funcionaba como consola de videojuegos.",
+        "precio": 595.00
+    },
+    {
+        "id": 50,
+        "nombre": "Panasonic 3DO",
+        "compania": "Panasonic",
+        "fecha_lanzamiento": "1993-10-04",
+        "descripcion": "Consola multimedia famosa por su elevado precio.",
+        "precio": 699.99
+    }
+]
